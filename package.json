@@ -1,0 +1,32 @@
+{
+  "name": "reactweather",
+  "version": "1.0.0",
+  "description": "Full stack React app tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learndevacc/full-stack-react-app-tutorial.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learndevacc/full-stack-react-app-tutorial/issues"
+  },
+  "homepage": "https://github.com/learndevacc/full-stack-react-app-tutorial#readme",
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
